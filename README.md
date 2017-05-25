@@ -1,9 +1,9 @@
 # Official Discord API
 
 ## Contents
-1. Introduction
-<br/>a) What can an application do?
-2. How to create an application
+1. [Introduction](https://github.com/discord-apps/tutorial/blob/master/README.md#introduction)
+<br/>a) [What can an application do?](https://github.com/discord-apps/tutorial#what-can-an-application-do)
+2. [How to create an application](https://github.com/discord-apps/tutorial#how-to-create-an-application)
 
 
 ## Introduction
