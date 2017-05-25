@@ -2,7 +2,7 @@
 
 ## Contents
 1. Introduction
-  a) What can an application do?
+<br/>a) What can an application do?
 2. How to create an application
 
 
